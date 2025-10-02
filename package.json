@@ -13,7 +13,10 @@
     "documentationUrl": "",
     "changelogUrl": "",
     "licensesUrl": "https://opensource.org/license/apache-2-0",
-    "dependencies": { },
+    "dependencies": {
+      "com.tglgames.tgl-file-utility": "1.0.0",
+      "com.tglgames.tgl-file-utility": "https://github.com/tglGames-Plugins/tgl-file-utility.git#v1.0.0"
+    },
    "keywords": [
       "File IO",
       "File write",
