@@ -1,0 +1,17 @@
+{
+    "name": "tgl-file-read-write.runtime",
+	"references":[ "GUID:a7beeb86b533d9426a759a4c5e172564" ],
+    "rootNamespace": "",
+    "references": [
+        "tgl-file-utility.runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+{
+    "name": "com.tglgames.tgl-file-read-write",
+    "version": "1.0.0",
+    "displayName": "TGL File Read Write",
+    "description": "This is an file read write package, with MonoBehaviour classes for ease of use",
+    "author": {
+        "name" : "Rishabh Jain",
+        "email" : "thegamelearner@gmail.com",
+        "url" : "https://tglblog.vercel.app/"
+     },
+    "unity": "6000.0",
+    "unityRelease": "3f1",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "https://opensource.org/license/apache-2-0",
+    "dependencies": { },
+   "keywords": [
+      "File IO",
+      "File write",
+      "File read",
+      "TGL"
+    ]
+  }
